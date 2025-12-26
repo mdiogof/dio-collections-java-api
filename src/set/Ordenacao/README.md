@@ -1,4 +1,4 @@
-# Ordenação com List
+# Ordenação com Set
 Esta seção do projeto é destinada à prática da ordenação de sets em Java. Isso foi feito por meio da criação de uma lista de produtos com os métodos:
 - adicionarProduto()
 - exibirProdutoPorNome()

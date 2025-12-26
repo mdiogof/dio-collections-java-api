@@ -1,4 +1,4 @@
-# Ordenação com List
+# Pesquisa com List
 Esta seção do projeto é destinada à prática da pesquisa de elementos de lists em Java. Isso foi feito por meio da criação de um catálogo de livros com os métodos:
 - adicionarLivro()
 - pesquisarPorAutor()
